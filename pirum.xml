@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+	<name>pear.lousson.org</name>
+	<summary>The Lousson Project's PEAR Channel</summary>
+	<alias>lousson</alias>
+	<url>http://pear.lousson.org/</url>
+</server>
+
