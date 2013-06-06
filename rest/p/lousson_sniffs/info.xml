@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
+<n>Lousson_Sniffs</n>
+<c>pear.lousson.org</c>
+<ca xlink:href="/rest/c/Default">Default</ca>
+<l>New BSD License</l>
+<s>Coding-styles and PHP_CodeSniffer integration</s>
+<d>
+    The Lousson_Sniffs package is used for both, maintaining the
+    Lousson Project's coding-styles as well as providing an integration
+    with PHP_CodeSniffer.
+  </d>
+<r xlink:href="/rest/r/lousson_sniffs" />
+</p>

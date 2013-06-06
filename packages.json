@@ -1,3 +1,43 @@
-[
-
-]
+{
+    "pear-lousson\/Lousson_Sniffs": {
+        "versions": {
+            "0.4.0": {
+                "name": "pear-lousson\/Lousson_Sniffs",
+                "description": "Coding-styles and PHP_CodeSniffer integration",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.lousson.org\/get\/Lousson_Sniffs-0.4.0.tgz"
+                },
+                "version": "0.4.0",
+                "time": "2013-06-06T02:53:10+02:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-pear\/PHP_CodeSniffer": ">=1.4.0"
+                },
+                "authors": [
+                    {
+                        "name": "Mathias J. Hennig",
+                        "email": "mhennig at quirkies.org",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Lousson\/Sniffs\/ControlStructures\/ControlSignatureSniff.php",
+                        "Lousson\/ruleset.xml"
+                    ]
+                }
+            }
+        },
+        "name": "pear-lousson\/Lousson_Sniffs",
+        "description": "Coding-styles and PHP_CodeSniffer integration",
+        "maintainers": [
+            {
+                "name": "Mathias J. Hennig",
+                "email": "mhennig at quirkies.org",
+                "homepage": ""
+            }
+        ]
+    }
+}
