@@ -39,6 +39,57 @@
             }
         ]
     },
+    "pear-lousson\/Lousson_Record": {
+        "versions": {
+            "0.4.0": {
+                "name": "pear-lousson\/Lousson_Record",
+                "description": "Universal data records",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.lousson.org\/get\/Lousson_Record-0.4.0.tgz"
+                },
+                "version": "0.4.0",
+                "time": "2013-06-07T06:48:49+02:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-lousson\/Lousson_Sniffs": ">=0.4.0",
+                    "pear-lousson\/Lousson_Exception": ">=0.2.0"
+                },
+                "authors": [
+                    {
+                        "name": "Mathias J. Hennig",
+                        "email": "mhennig at quirkies.org",
+                        "homepage": ""
+                    },
+                    {
+                        "name": "Attila Levai",
+                        "email": "alevai at quirkies.org",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Lousson\/Record"
+                    ]
+                }
+            }
+        },
+        "name": "pear-lousson\/Lousson_Record",
+        "description": "Universal data records",
+        "maintainers": [
+            {
+                "name": "Mathias J. Hennig",
+                "email": "mhennig at quirkies.org",
+                "homepage": ""
+            },
+            {
+                "name": "Attila Levai",
+                "email": "alevai at quirkies.org",
+                "homepage": ""
+            }
+        ]
+    },
     "pear-lousson\/Lousson_Sniffs": {
         "versions": {
             "0.4.0": {
