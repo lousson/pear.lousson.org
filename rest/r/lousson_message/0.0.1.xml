@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/lousson_message">Lousson_Message</p>
+    <c>pear.lousson.org</c>
+    <v>0.0.1</v>
+    <st>stable</st>
+    <l>New BSD License</l>
+    <m>mjhennig</m>
+    <s>Lightweight inter-process communication</s>
+    <d>
+    A working draft.
+  </d>
+    <da>2013-06-19 15:06:32</da>
+    <n>
+    A working draft in-progress.
+  </n>
+    <f>19590</f>
+    <g>http://pear.lousson.org/get/Lousson_Message-0.0.1</g>
+    <x xlink:href="package.0.0.1.xml"/>
+</r>
