@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- vim: set softtabstop=2 tabstop=2 shiftwidth=2 expandtab: -->
+<package
+    packagerversion="1.9.1" version="2.0"
+    xmlns="http://pear.php.net/dtd/package-2.0"
+    xmlns:tasks="http://pear.php.net/dtd/tasks-1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://pear.php.net/dtd/tasks-1.0 http://pear.php.net/dtd/tasks-1.0.xsd
+        http://pear.php.net/dtd/package-2.0 http://pear.php.net/dtd/package-2.0.xsd
+    ">
+
+  <name>Psr_Log</name>
+  <channel>pear.lousson.org</channel>
+  <summary>Port of the psr/log composer package</summary>
+  <description>
+    The Psr_Log package provides the reference implementation of the logging
+    facilities defined in PSR-3. It is a port of the original psr/log Composer
+    package, enabling authors to declare the depenency in a package.xml file
+  </description>
+
+  <lead>
+    <name>Mathias J. Hennig</name>
+    <user>mjhennig</user>
+    <email>mhennig at quirkies.org</email>
+    <active>yes</active>
+  </lead>
+
+  <date>2013-06-22</date>
+  <time>17:30:30</time>
+  <version>
+    <release>1.0.0</release>
+    <api>1.0</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license uri="http://www.opensource.org/licenses/MIT">MIT License</license>
+  <notes>
+    Initial release.
+  </notes>
+
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="a57c1be541193b72d09307bb0dfb9ed2" name="/Psr/Log/AbstractLogger.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="7d2f0bd1583524d739fff12f0507de65" name="/Psr/Log/InvalidArgumentException.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="19ab55cc711ed2f3ab2ec72e7f0600cb" name="/Psr/Log/LogLevel.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="3ba5ffac8108e1da7657b1fad8651900" name="/Psr/Log/LoggerAwareInterface.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="5b3adf6c4f09c61d7488b0f9ac2c696a" name="/Psr/Log/LoggerAwareTrait.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="023885df6a26d8137d5a13da51f066d2" name="/Psr/Log/LoggerInterface.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="1cb8db6d0b81cf85f81b6c7c09db7a9a" name="/Psr/Log/LoggerTrait.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="e71559fea0239b7441d221f8c7beae5b" name="/Psr/Log/NullLogger.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="867f36a94c35322470458f4eba246458" name="/Psr/Log/Test/LoggerInterfaceTest.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="1a74629072fd794937be394ab689327e" name="LICENSE.txt" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="144a71a4e1f9c67ac79751acc37614c4" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.9.4</min>
+      </pearinstaller>
+    </required>
+    <optional>
+      <package>
+        <name>Autoloader</name>
+        <channel>pear.phix-project.org</channel>
+        <min>3.0.0</min>
+        <max>3.999.9999</max>
+      </package>
+    </optional>
+  </dependencies>
+
+  <phprelease/>
+
+</package>

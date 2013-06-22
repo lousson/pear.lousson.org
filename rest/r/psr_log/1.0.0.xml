@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/psr_log">Psr_Log</p>
+    <c>pear.lousson.org</c>
+    <v>1.0.0</v>
+    <st>stable</st>
+    <l>MIT License</l>
+    <m>mjhennig</m>
+    <s>Port of the psr/log composer package</s>
+    <d>
+    The Psr_Log package provides the reference implementation of the logging
+    facilities defined in PSR-3. It is a port of the original psr/log Composer
+    package, enabling authors to declare the depenency in a package.xml file
+  </d>
+    <da>2013-06-22 17:30:30</da>
+    <n>
+    Initial release.
+  </n>
+    <f>5403</f>
+    <g>http://pear.lousson.org/get/Psr_Log-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
+</r>
