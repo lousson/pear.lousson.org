@@ -68,6 +68,35 @@
     },
     "pear-lousson\/Lousson_Logger": {
         "versions": {
+            "0.1.1": {
+                "name": "pear-lousson\/Lousson_Logger",
+                "description": "PSR-3 compatible logging facilities",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.lousson.org\/get\/Lousson_Logger-0.1.1.tgz"
+                },
+                "version": "0.1.1",
+                "time": "2013-06-26T01:12:47+02:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-lousson\/Lousson_Sniffs": ">=0.4.0",
+                    "pear-lousson\/Lousson_Exception": ">=0.2.0",
+                    "pear-lousson\/Psr_Log": ">=1.0.0"
+                },
+                "authors": [
+                    {
+                        "name": "Mathias J. Hennig",
+                        "email": "mhennig at quirkies.org",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Lousson"
+                    ]
+                }
+            },
             "0.0.1": {
                 "name": "pear-lousson\/Lousson_Logger",
                 "description": "PSR-3 compatible logging facilities",
