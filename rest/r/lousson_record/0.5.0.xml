@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/lousson_record">Lousson_Record</p>
+    <c>pear.lousson.org</c>
+    <v>0.5.0</v>
+    <st>stable</st>
+    <l>New BSD License</l>
+    <m>mjhennig</m>
+    <s>Universal data records</s>
+    <d>
+    The Lousson_Record package eases the creation of portable data records
+    that are serializable in various formats.
+  </d>
+    <da>2013-06-30 16:24:35</da>
+    <n>
+    Initial release.
+  </n>
+    <f>25684</f>
+    <g>http://pear.lousson.org/get/Lousson_Record-0.5.0</g>
+    <x xlink:href="package.0.5.0.xml"/>
+</r>
