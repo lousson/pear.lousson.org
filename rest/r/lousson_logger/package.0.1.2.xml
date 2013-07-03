@@ -26,11 +26,11 @@
     <active>yes</active>
   </lead>
 
-  <date>2013-06-23</date>
-  <time>03:01:28</time>
+  <date>2013-07-03</date>
+  <time>23:54:23</time>
   <version>
-    <release>0.0.1</release>
-    <api>0.0</api>
+    <release>0.1.2</release>
+    <api>0.1</api>
   </version>
   <stability>
     <release>stable</release>
@@ -43,19 +43,19 @@
 
   <contents>
     <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="bfae3a14b774c1a5c7d3a15b2c232310" name="/Lousson/Logger.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
       <file baseinstalldir="/" md5sum="ad240da76872e9e9c022abf60e7a05d1" name="/Lousson/LoggerError.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="2b3930e1d9fe275edb347623b69788cf" name="/Lousson/LoggerFactory.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="bc7e2d7d21d9f9ddc2b887520dffefdc" name="/Lousson/LoggerFactory.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="6b97a1bc2ad7707ea3cdb875d2193771" name="/Lousson/Logger.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
-        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
-        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
-      </file>
-      <file baseinstalldir="/" md5sum="f5d57b3aef90db0f52fed19bba8ba824" name="/Lousson/Logger/LoggerFactoryTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="63d99241fcca3dbc8eacccfc6f2ad71c" name="/Lousson/Logger/LoggerFactoryTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -67,7 +67,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="135a7e665ccdcb4d1835d9ca33bfd7b9" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="4f34dbdaecffe063fbc834d9382b4b04" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -101,7 +101,7 @@
       </package>
       <package>
         <name>Psr_Log</name>
-        <channel>pear.lousson.org</channel>
+        <channel>pear.quirkies.org</channel>
         <min>1.0.0</min>
       </package>
     </required>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.lousson.org</id>
-    <updated>2013-07-01T02:30:05+02:00</updated>
+    <updated>2013-07-03T23:55:47+02:00</updated>
     <title>The Lousson Project's PEAR Channel Latest Releases</title>
     <link href="http://pear.lousson.org/feed.xml" rel="self" />
     <author>
@@ -48,26 +48,13 @@
   
         </content>
     </entry>    <entry>
-        <title>Lousson_Logger 0.1.1 (stable)</title>
-        <link href="http://pear.lousson.org/get/Lousson_Logger-0.1.1.tgz" />
-        <id>http://pear.lousson.org/get/Lousson_Logger-0.1.1.tgz</id>
+        <title>Lousson_Logger 0.1.2 (stable)</title>
+        <link href="http://pear.lousson.org/get/Lousson_Logger-0.1.2.tgz" />
+        <id>http://pear.lousson.org/get/Lousson_Logger-0.1.2.tgz</id>
         <author>
             <name>mjhennig</name>
         </author>
-        <updated>2013-06-26T01:12:47+02:00</updated>
-        <content>
-            
-    Initial release.
-  
-        </content>
-    </entry>    <entry>
-        <title>Lousson_Logger 0.0.1 (stable)</title>
-        <link href="http://pear.lousson.org/get/Lousson_Logger-0.0.1.tgz" />
-        <id>http://pear.lousson.org/get/Lousson_Logger-0.0.1.tgz</id>
-        <author>
-            <name>mjhennig</name>
-        </author>
-        <updated>2013-06-23T03:01:28+02:00</updated>
+        <updated>2013-07-03T23:54:23+02:00</updated>
         <content>
             
     Initial release.
@@ -159,19 +146,6 @@
             <name>mjhennig</name>
         </author>
         <updated>2013-06-06T09:05:46+02:00</updated>
-        <content>
-            
-    Initial release.
-  
-        </content>
-    </entry>    <entry>
-        <title>Psr_Log 1.0.0 (stable)</title>
-        <link href="http://pear.lousson.org/get/Psr_Log-1.0.0.tgz" />
-        <id>http://pear.lousson.org/get/Psr_Log-1.0.0.tgz</id>
-        <author>
-            <name>mjhennig</name>
-        </author>
-        <updated>2013-06-22T17:30:30+02:00</updated>
         <content>
             
     Initial release.
