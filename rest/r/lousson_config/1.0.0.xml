@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/lousson_config">Lousson_Config</p>
+    <c>pear.lousson.org</c>
+    <v>1.0.0</v>
+    <st>stable</st>
+    <l>New BSD License</l>
+    <m>sgnl19</m>
+    <s>flexible configuration and setup</s>
+    <d>
+    The lousson/config package provides flexible facilities for application
+    configuration and setup - in various formats.
+  </d>
+    <da>2013-07-22 17:07:27</da>
+    <n>
+    No notes.
+  </n>
+    <f>11134</f>
+    <g>http://pear.lousson.org/get/Lousson_Config-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
+</r>

@@ -3,6 +3,10 @@
     <p>Lousson_Config</p>
     <c>pear.lousson.org</c>
     <r>
+        <v>1.0.0</v>
+        <s>stable</s>
+    </r>
+    <r>
         <v>0.4.0</v>
         <s>stable</s>
     </r>
