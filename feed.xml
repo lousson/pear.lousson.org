@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.lousson.org</id>
-    <updated>2013-07-22T14:47:35+02:00</updated>
+    <updated>2013-07-22T15:09:48+02:00</updated>
     <title>The Lousson Project's PEAR Channel Latest Releases</title>
     <link href="http://pear.lousson.org/feed.xml" rel="self" />
     <author>
@@ -61,13 +61,13 @@
   
         </content>
     </entry>    <entry>
-        <title>Lousson_Logger 0.1.2 (stable)</title>
-        <link href="http://pear.lousson.org/get/Lousson_Logger-0.1.2.tgz" />
-        <id>http://pear.lousson.org/get/Lousson_Logger-0.1.2.tgz</id>
+        <title>Lousson_Logger 1.0.0 (stable)</title>
+        <link href="http://pear.lousson.org/get/Lousson_Logger-1.0.0.tgz" />
+        <id>http://pear.lousson.org/get/Lousson_Logger-1.0.0.tgz</id>
         <author>
             <name>mjhennig</name>
         </author>
-        <updated>2013-07-03T23:54:23+02:00</updated>
+        <updated>2013-07-22T15:09:08+02:00</updated>
         <content>
             
     Initial release.
