@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.lousson.org</id>
-    <updated>2013-07-21T19:43:47+02:00</updated>
+    <updated>2013-07-22T02:30:21+02:00</updated>
     <title>The Lousson Project's PEAR Channel Latest Releases</title>
     <link href="http://pear.lousson.org/feed.xml" rel="self" />
     <author>
@@ -16,6 +16,19 @@
             <name>sgnl19</name>
         </author>
         <updated>2013-07-01T02:30:04+02:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>Lousson_Container 0.2.0 (stable)</title>
+        <link href="http://pear.lousson.org/get/Lousson_Container-0.2.0.tgz" />
+        <id>http://pear.lousson.org/get/Lousson_Container-0.2.0.tgz</id>
+        <author>
+            <name>mjhennig</name>
+        </author>
+        <updated>2013-07-22T02:30:19+02:00</updated>
         <content>
             
     No notes.
