@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.lousson.org</id>
-    <updated>2013-07-22T14:28:48+02:00</updated>
+    <updated>2013-07-22T14:35:36+02:00</updated>
     <title>The Lousson Project's PEAR Channel Latest Releases</title>
     <link href="http://pear.lousson.org/feed.xml" rel="self" />
     <author>
