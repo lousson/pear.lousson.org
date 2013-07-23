@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/lousson_uri">Lousson_URI</p>
+    <c>pear.lousson.org</c>
+    <v>1.1.0</v>
+    <st>stable</st>
+    <l>New BSD License</l>
+    <m>mjhennig</m>
+    <s>Entities to operate with URNs and URLs</s>
+    <d>
+    The Lousson_URI package consists of entities to represent, validate and
+    transform URNs and URLs.
+  </d>
+    <da>2013-07-23 16:15:29</da>
+    <n>
+    Initial release.
+  </n>
+    <f>19357</f>
+    <g>http://pear.lousson.org/get/Lousson_URI-1.1.0</g>
+    <x xlink:href="package.1.1.0.xml"/>
+</r>
