@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- vim: set softtabstop=2 tabstop=2 shiftwidth=2 expandtab: -->
+<package
+    packagerversion="1.9.1" version="2.0"
+    xmlns="http://pear.php.net/dtd/package-2.0"
+    xmlns:tasks="http://pear.php.net/dtd/tasks-1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://pear.php.net/dtd/tasks-1.0 http://pear.php.net/dtd/tasks-1.0.xsd
+        http://pear.php.net/dtd/package-2.0 http://pear.php.net/dtd/package-2.0.xsd
+    ">
+
+  <name>Lousson_Message_AMQP</name>
+  <channel>pear.lousson.org</channel>
+  <summary>AMQP-based event messaging</summary>
+  <description>
+    The Lousson_Message_AMQP package is a plugin for Lousson_Message that
+    provides an AMQP integration with the messaging facilities
+  </description>
+
+  <lead>
+    <name>Mathias J. Hennig</name>
+    <user>mjhennig</user>
+    <email>mhennig at quirkies.org</email>
+    <active>yes</active>
+  </lead>
+  <developer>
+    <name>Benjamin Schneider</name>
+    <user>bjsn</user>
+    <email>benjamin.schneider.de at gmail.com</email>
+    <active>yes</active>
+  </developer>
+
+  <date>2013-07-23</date>
+  <time>08:49:00</time>
+  <version>
+    <release>0.1.0</release>
+    <api>0.1</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>alpha</api>
+  </stability>
+  <license uri="http://www.opensource.org/licenses/bsd-license.php">New BSD License</license>
+  <notes>
+    A working draft in-progress.
+  </notes>
+
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="86bbc8f311a517363b2b4407a6e54a24" name="/Lousson/Message/AMQP/AMQPMessageHandler.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="11a428a01b0385b3f440c9a5e6816238" name="/Lousson/Message/AMQP/AMQPMessageProvider.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="d132b8c995f53fabe0c667dfa01dab89" name="/Lousson/Message/AMQP/AMQPMessageResolver.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="d2e7903167228ee98f5ce42d00c15b20" name="/Lousson/Message/AMQP/Intern/AMQPArgumentError.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="81bcd9860997352626930280951bb776" name="/Lousson/Message/AMQP/Intern/AMQPException.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="00ecf76088c67368d6929bafc3d0c2b3" name="/Lousson/Message/AMQP/Intern/AMQPFactory.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="5e8c6790e3cb02406942dcb6fe973d4e" name="/Lousson/Message/AMQP/Intern/AMQPRuntimeError.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="6080660166d90453b6be9b458006cc4c" name="/Lousson/Message/AMQP/AMQPMessageHandlerTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="fb45308b8f16d5d1025535e146f79a65" name="/Lousson/Message/AMQP/AMQPMessageProviderTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="287dee06809fd6200830c91f874bc80c" name="/Lousson/Message/AMQP/Intern/AMQPArgumentErrorTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="30c0640a715f873d058186a0ea5dada4" name="/Lousson/Message/AMQP/Intern/AMQPFactoryTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="43acd7b44e54f512f84ba7e671dc1008" name="/Lousson/Message/AMQP/Intern/AMQPRuntimeErrorTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="538e225f034a61034a44e7ae28ab7d89" name="/Lousson/Message/AMQP/AMQPMessageResolverTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="97ef66b4d5a751ad364e6474162b042b" name="LICENSE.txt" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="567e124ad6f71b92fb23bfa5d2ec0c5b" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.9.1</min>
+      </pearinstaller>
+      <package>
+        <name>Autoloader</name>
+        <channel>pear.phix-project.org</channel>
+        <min>3.0.0</min>
+        <max>3.999.9999</max>
+      </package>
+      <package>
+        <name>Lousson_Message</name>
+        <channel>pear.lousson.org</channel>
+        <min>1.0.0</min>
+        <max>1.999.999</max>
+      </package>
+      <package>
+        <name>Lousson_URI</name>
+        <channel>pear.lousson.org</channel>
+        <min>1.0.0</min>
+        <max>1.999.999</max>
+      </package>
+      <package>
+        <name>Lousson_Sniffs</name>
+        <channel>pear.lousson.org</channel>
+        <min>0.4.0</min>
+      </package>
+    </required>
+  </dependencies>
+
+  <phprelease/>
+
+</package>

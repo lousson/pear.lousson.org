@@ -6,6 +6,7 @@
   <p>Lousson_Exception</p>
   <p>Lousson_Logger</p>
   <p>Lousson_Message</p>
+  <p>Lousson_Message_AMQP</p>
   <p>Lousson_Message_Record</p>
   <p>Lousson_Record</p>
   <p>Lousson_Sniffs</p>

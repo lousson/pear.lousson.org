@@ -454,6 +454,58 @@
             }
         ]
     },
+    "pear-lousson\/Lousson_Message_AMQP": {
+        "versions": {
+            "0.1.0": {
+                "name": "pear-lousson\/Lousson_Message_AMQP",
+                "description": "AMQP-based event messaging",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.lousson.org\/get\/Lousson_Message_AMQP-0.1.0.tgz"
+                },
+                "version": "0.1.0",
+                "time": "2013-07-23T08:49:00+02:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-lousson\/Lousson_Message": ">=1.0.0,<=1.999.999",
+                    "pear-lousson\/Lousson_URI": ">=1.0.0,<=1.999.999",
+                    "pear-lousson\/Lousson_Sniffs": ">=0.4.0"
+                },
+                "authors": [
+                    {
+                        "name": "Mathias J. Hennig",
+                        "email": "mhennig at quirkies.org",
+                        "homepage": ""
+                    },
+                    {
+                        "name": "Benjamin Schneider",
+                        "email": "benjamin.schneider.de at gmail.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Lousson\/Message\/AMQP"
+                    ]
+                }
+            }
+        },
+        "name": "pear-lousson\/Lousson_Message_AMQP",
+        "description": "AMQP-based event messaging",
+        "maintainers": [
+            {
+                "name": "Mathias J. Hennig",
+                "email": "mhennig at quirkies.org",
+                "homepage": ""
+            },
+            {
+                "name": "Benjamin Schneider",
+                "email": "benjamin.schneider.de at gmail.com",
+                "homepage": ""
+            }
+        ]
+    },
     "pear-lousson\/Lousson_Message_Record": {
         "versions": {
             "0.1.0": {
