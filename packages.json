@@ -454,6 +454,50 @@
             }
         ]
     },
+    "pear-lousson\/Lousson_Message_Record": {
+        "versions": {
+            "0.1.0": {
+                "name": "pear-lousson\/Lousson_Message_Record",
+                "description": "Record-based event messaging",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.lousson.org\/get\/Lousson_Message_Record-0.1.0.tgz"
+                },
+                "version": "0.1.0",
+                "time": "2013-07-23T07:56:58+02:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-lousson\/Lousson_Message": ">=1.0.0,<=1.999.999",
+                    "pear-lousson\/Lousson_Record": ">=1.0.0,<=1.999.999",
+                    "pear-lousson\/Lousson_URI": ">=1.0.0,<=1.999.999",
+                    "pear-quirkies\/Psr_Log": ">=1.0.0,<=1.999.999",
+                    "pear-lousson\/Lousson_Sniffs": ">=0.4.0"
+                },
+                "authors": [
+                    {
+                        "name": "Mathias J. Hennig",
+                        "email": "mhennig at quirkies.org",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Lousson\/Message\/Record"
+                    ]
+                }
+            }
+        },
+        "name": "pear-lousson\/Lousson_Message_Record",
+        "description": "Record-based event messaging",
+        "maintainers": [
+            {
+                "name": "Mathias J. Hennig",
+                "email": "mhennig at quirkies.org",
+                "homepage": ""
+            }
+        ]
+    },
     "pear-lousson\/Lousson_Record": {
         "versions": {
             "1.0.0": {

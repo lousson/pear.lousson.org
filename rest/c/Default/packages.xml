@@ -5,6 +5,7 @@
   <p xlink:href="/rest/p/lousson_exception">Lousson_Exception</p>
   <p xlink:href="/rest/p/lousson_logger">Lousson_Logger</p>
   <p xlink:href="/rest/p/lousson_message">Lousson_Message</p>
+  <p xlink:href="/rest/p/lousson_message_record">Lousson_Message_Record</p>
   <p xlink:href="/rest/p/lousson_record">Lousson_Record</p>
   <p xlink:href="/rest/p/lousson_sniffs">Lousson_Sniffs</p>
   <p xlink:href="/rest/p/lousson_uri">Lousson_URI</p>
