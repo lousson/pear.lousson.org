@@ -447,6 +447,46 @@
     },
     "pear-lousson\/Lousson_Message": {
         "versions": {
+            "1.2.0": {
+                "name": "pear-lousson\/Lousson_Message",
+                "description": "Lightweight inter-process communication",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/pear.lousson.org\/get\/Lousson_Message-1.2.0.tgz"
+                },
+                "version": "1.2.0",
+                "time": "2013-08-05T05:41:49+02:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-lousson\/Lousson_Exception": ">=1.0.0,<=1.999.999",
+                    "pear-lousson\/Lousson_URI": ">=1.0.0,<=1.999.999",
+                    "pear-lousson\/Lousson_Logger": ">=1.2.0,<=1.999.999",
+                    "pear-lousson\/Lousson_Sniffs": ">=0.4.0"
+                },
+                "authors": [
+                    {
+                        "name": "Mathias J. Hennig",
+                        "email": "mhennig at quirkies.org",
+                        "homepage": ""
+                    },
+                    {
+                        "name": "Attila Levai",
+                        "email": "alevai at quirkies.org",
+                        "homepage": ""
+                    },
+                    {
+                        "name": "Benjamin Schneider",
+                        "email": "benjamin.schneider.de at gmail.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Lousson\/Message"
+                    ]
+                }
+            },
             "1.1.0": {
                 "name": "pear-lousson\/Lousson_Message",
                 "description": "Lightweight inter-process communication",
