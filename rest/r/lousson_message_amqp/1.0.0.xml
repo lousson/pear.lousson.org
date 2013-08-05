@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/lousson_message_amqp">Lousson_Message_AMQP</p>
+    <c>pear.lousson.org</c>
+    <v>1.0.0</v>
+    <st>stable</st>
+    <l>New BSD License</l>
+    <m>mjhennig</m>
+    <s>AMQP-based event messaging</s>
+    <d>
+    The Lousson_Message_AMQP package is a plugin for Lousson_Message that
+    provides an AMQP integration with the messaging facilities
+  </d>
+    <da>2013-08-05 05:28:13</da>
+    <n>
+    A working draft in-progress.
+  </n>
+    <f>13624</f>
+    <g>http://pear.lousson.org/get/Lousson_Message_AMQP-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
+</r>
