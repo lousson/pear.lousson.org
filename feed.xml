@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.lousson.org</id>
-    <updated>2013-08-27T08:59:25+02:00</updated>
+    <updated>2013-12-03T05:50:58+01:00</updated>
     <title>The Lousson Project's PEAR Channel Latest Releases</title>
     <link href="http://pear.lousson.org/feed.xml" rel="self" />
     <author>
@@ -18,6 +18,10 @@
         <updated>2013-08-01T14:57:57+02:00</updated>
         <content>
             
+    The lousson/config package provides flexible facilities for application
+    configuration and setup - in various formats.
+  
+            
     No notes.
   
         </content>
@@ -30,6 +34,10 @@
         </author>
         <updated>2013-07-22T17:07:27+02:00</updated>
         <content>
+            
+    The lousson/config package provides flexible facilities for application
+    configuration and setup - in various formats.
+  
             
     No notes.
   
@@ -44,6 +52,10 @@
         <updated>2013-07-01T02:30:04+02:00</updated>
         <content>
             
+    The lousson/config package provides flexible facilities for application
+    configuration and setup - in various formats.
+  
+            
     No notes.
   
         </content>
@@ -56,6 +68,12 @@
         </author>
         <updated>2013-08-27T08:59:18+02:00</updated>
         <content>
+            
+    The lousson/Lousson_Container package is a portability layer for any
+    dependency management system used within an application. It allows the
+    authors of libraries to create packages that easily can get integrated
+    with or even use the context's facilities
+  
             
     No notes.
   
@@ -70,6 +88,12 @@
         <updated>2013-07-31T12:02:11+02:00</updated>
         <content>
             
+    The lousson/Lousson_Container package is a portability layer for any
+    dependency management system used within an application. It allows the
+    authors of libraries to create packages that easily can get integrated
+    with or even use the context's facilities
+  
+            
     No notes.
   
         </content>
@@ -82,6 +106,12 @@
         </author>
         <updated>2013-07-31T07:15:31+02:00</updated>
         <content>
+            
+    The lousson/Lousson_Container package is a portability layer for any
+    dependency management system used within an application. It allows the
+    authors of libraries to create packages that easily can get integrated
+    with or even use the context's facilities
+  
             
     No notes.
   
@@ -96,6 +126,12 @@
         <updated>2013-07-30T09:34:28+02:00</updated>
         <content>
             
+    The lousson/Lousson_Container package is a portability layer for any
+    dependency management system used within an application. It allows the
+    authors of libraries to create packages that easily can get integrated
+    with or even use the context's facilities
+  
+            
     No notes.
   
         </content>
@@ -108,6 +144,12 @@
         </author>
         <updated>2013-07-29T23:55:53+02:00</updated>
         <content>
+            
+    The lousson/Lousson_Container package is a portability layer for any
+    dependency management system used within an application. It allows the
+    authors of libraries to create packages that easily can get integrated
+    with or even use the context's facilities
+  
             
     No notes.
   
@@ -122,6 +164,12 @@
         <updated>2013-07-22T18:04:47+02:00</updated>
         <content>
             
+    The lousson/Lousson_Container package is a portability layer for any
+    dependency management system used within an application. It allows the
+    authors of libraries to create packages that easily can get integrated
+    with or even use the context's facilities
+  
+            
     No notes.
   
         </content>
@@ -134,6 +182,12 @@
         </author>
         <updated>2013-07-22T07:49:19+02:00</updated>
         <content>
+            
+    The lousson/Lousson_Container package is a portability layer for any
+    dependency management system used within an application. It allows the
+    authors of libraries to create packages that easily can get integrated
+    with or even use the context's facilities
+  
             
     No notes.
   
@@ -148,6 +202,12 @@
         <updated>2013-07-22T02:30:19+02:00</updated>
         <content>
             
+    The lousson/Lousson_Container package is a portability layer for any
+    dependency management system used within an application. It allows the
+    authors of libraries to create packages that easily can get integrated
+    with or even use the context's facilities
+  
+            
     No notes.
   
         </content>
@@ -160,6 +220,11 @@
         </author>
         <updated>2013-07-22T14:28:45+02:00</updated>
         <content>
+            
+    The Lousson_Exception package consists of a standard exception interface,
+    specific for the Lousson-project, and a bunch of error classes extending
+    PHP and SPL exceptions and implementing the interface.
+  
             
     Initial release.
   
@@ -174,6 +239,11 @@
         <updated>2013-08-05T02:46:11+02:00</updated>
         <content>
             
+    The Lousson_Logger package provides a set of facilities to create
+    logger instances that are compatible with the PSR-3 specification -
+    optionally even based on other implmentations that are not
+  
+            
     Initial release.
   
         </content>
@@ -186,6 +256,11 @@
         </author>
         <updated>2013-07-22T15:09:08+02:00</updated>
         <content>
+            
+    The Lousson_Logger package provides a set of facilities to create
+    logger instances that are compatible with the PSR-3 specification -
+    optionally even based on other implmentations that are not
+  
             
     Initial release.
   
@@ -200,6 +275,9 @@
         <updated>2013-08-05T05:41:49+02:00</updated>
         <content>
             
+    A working draft.
+  
+            
     A working draft in-progress.
   
         </content>
@@ -212,6 +290,9 @@
         </author>
         <updated>2013-07-23T12:37:14+02:00</updated>
         <content>
+            
+    A working draft.
+  
             
     A working draft in-progress.
   
@@ -226,6 +307,9 @@
         <updated>2013-07-23T06:25:22+02:00</updated>
         <content>
             
+    A working draft.
+  
+            
     A working draft in-progress.
   
         </content>
@@ -238,6 +322,9 @@
         </author>
         <updated>2013-07-21T19:43:45+02:00</updated>
         <content>
+            
+    A working draft.
+  
             
     A working draft in-progress.
   
@@ -252,6 +339,9 @@
         <updated>2013-07-16T07:17:09+02:00</updated>
         <content>
             
+    A working draft.
+  
+            
     A working draft in-progress.
   
         </content>
@@ -264,6 +354,9 @@
         </author>
         <updated>2013-06-19T15:06:32+02:00</updated>
         <content>
+            
+    A working draft.
+  
             
     A working draft in-progress.
   
@@ -278,6 +371,10 @@
         <updated>2013-08-05T05:28:13+02:00</updated>
         <content>
             
+    The Lousson_Message_AMQP package is a plugin for Lousson_Message that
+    provides an AMQP integration with the messaging facilities
+  
+            
     A working draft in-progress.
   
         </content>
@@ -290,6 +387,10 @@
         </author>
         <updated>2013-07-23T08:49:00+02:00</updated>
         <content>
+            
+    The Lousson_Message_AMQP package is a plugin for Lousson_Message that
+    provides an AMQP integration with the messaging facilities
+  
             
     A working draft in-progress.
   
@@ -304,7 +405,29 @@
         <updated>2013-07-23T07:56:58+02:00</updated>
         <content>
             
+    The Lousson_Message_Record package is an extension of the facilities
+    provided by Lousson_Record, consisting of a set of decorators to ease
+    the creation and exchange of record messages
+  
+            
     A working draft in-progress.
+  
+        </content>
+    </entry>    <entry>
+        <title>Lousson_Record 1.2.0 (stable)</title>
+        <link href="http://pear.lousson.org/get/Lousson_Record-1.2.0.tgz" />
+        <id>http://pear.lousson.org/get/Lousson_Record-1.2.0.tgz</id>
+        <author>
+            <name>mjhennig</name>
+        </author>
+        <updated>2013-12-03T05:50:54+01:00</updated>
+        <content>
+            
+    The Lousson_Record package eases the creation of portable data records
+    that are serializable in various formats.
+  
+            
+    Initial release.
   
         </content>
     </entry>    <entry>
@@ -316,6 +439,10 @@
         </author>
         <updated>2013-07-22T15:46:24+02:00</updated>
         <content>
+            
+    The Lousson_Record package eases the creation of portable data records
+    that are serializable in various formats.
+  
             
     Initial release.
   
@@ -330,6 +457,10 @@
         <updated>2013-06-30T16:24:35+02:00</updated>
         <content>
             
+    The Lousson_Record package eases the creation of portable data records
+    that are serializable in various formats.
+  
+            
     Initial release.
   
         </content>
@@ -342,6 +473,10 @@
         </author>
         <updated>2013-06-26T00:39:50+02:00</updated>
         <content>
+            
+    The Lousson_Record package eases the creation of portable data records
+    that are serializable in various formats.
+  
             
     Initial release.
   
@@ -356,6 +491,10 @@
         <updated>2013-06-07T06:48:49+02:00</updated>
         <content>
             
+    The Lousson_Record package eases the creation of portable data records
+    that are serializable in various formats.
+  
+            
     Initial release.
   
         </content>
@@ -368,6 +507,11 @@
         </author>
         <updated>2013-06-06T02:53:10+02:00</updated>
         <content>
+            
+    The Lousson_Sniffs package is used for both, maintaining the
+    Lousson Project's coding-styles as well as providing an integration
+    with PHP_CodeSniffer.
+  
             
     Initial release.
   
@@ -382,6 +526,10 @@
         <updated>2013-07-23T16:15:29+02:00</updated>
         <content>
             
+    The Lousson_URI package consists of entities to represent, validate and
+    transform URNs and URLs.
+  
+            
     Initial release.
   
         </content>
@@ -394,6 +542,10 @@
         </author>
         <updated>2013-07-22T15:24:59+02:00</updated>
         <content>
+            
+    The Lousson_URI package consists of entities to represent, validate and
+    transform URNs and URLs.
+  
             
     Initial release.
   
@@ -408,6 +560,10 @@
         <updated>2013-06-06T09:16:42+02:00</updated>
         <content>
             
+    The Lousson_URI package consists of entities to represent, validate and
+    transform URNs and URLs.
+  
+            
     Initial release.
   
         </content>
@@ -420,6 +576,10 @@
         </author>
         <updated>2013-06-06T09:05:46+02:00</updated>
         <content>
+            
+    The Lousson_URI package consists of entities to represent, validate and
+    transform URNs and URLs.
+  
             
     Initial release.
   
